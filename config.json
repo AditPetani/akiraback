@@ -1,0 +1,27 @@
+{
+    "ownerNumber": ["6283129240927@s.whatsapp.net","6285658233591@s.whatsapp.net"],
+    "ownerName": "ᴀᴋɪʀᴀ ✿",
+    "instagram" : "https://instagram.com/man_arthaa",
+    "botName": "ᴀᴋɪʀᴀ ᴍᴅ",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "Akirate",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
